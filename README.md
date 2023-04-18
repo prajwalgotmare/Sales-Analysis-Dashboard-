@@ -1,4 +1,6 @@
-# Retail Market Dataset Overview
+# Sales Analysis Dashboard
+
+## Retail Market Dataset Overview
 
 This dataset provides information on the retail market, including the sale of goods and services to consumers through various channels of distribution. The data covers industries such as food, motor vehicles, apparel, and electronics, among others.
 
