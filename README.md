@@ -1,5 +1,5 @@
 # Sales Analysis Dashboard
-![Sales Image] (https://accelerationeconomy.com/wp-content/uploads/2021/05/WnPx1616681275960.jpeg)
+![Sales Image](https://accelerationeconomy.com/wp-content/uploads/2021/05/WnPx1616681275960.jpeg)
 
 ## Retail Market Dataset Overview
 
